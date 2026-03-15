@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::player
   moveSpeed: 5
-  stopDistance: 0.3
+  stopDistance: 1
   rotationSpeed: 5
 --- !u!50 &76135058
 Rigidbody2D:
@@ -20539,7 +20539,7 @@ GameObject:
   m_Layer: 0
   m_Name: tiger
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -23323,7 +23323,7 @@ MonoBehaviour:
   obstaclePrefab: {fileID: 175415034}
   obstacleCount: 30
   testRuns: 3
-  mapWidth: 15
+  mapWidth: 30
   mapHeight: 15
   delayBetweenRuns: 10
 --- !u!1 &2138428464
